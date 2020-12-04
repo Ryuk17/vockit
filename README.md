@@ -19,7 +19,7 @@ Vocoder Toolkit. 声码器工具箱。
 
 ### 声码器来源
 
-1. [griffinlim](https://github.com/keithito/tacotron/tree/master/util)
+1. [griffinlim](https://github.com/KuangDD/aukit)
 2. [waveglow](https://github.com/NVIDIA/waveglow)
 3. [melgan](https://github.com/descriptinc/melgan-neurips)
 4. [wavernn](https://github.com/fatchord/WaveRNN)
